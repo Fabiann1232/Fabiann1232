@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiann1232" alt="fabiann1232" /></a> </p>
 
+- My Beacons page [Beacons](https://beacons.ai/feimon)
+
 - 🌱 I’m currently learning **React and Javascript**
 
 - 📫 How to reach me **fabimontene@gmail.com**
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiann1232&show_icons=true&locale=en" alt="fabiann1232" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiann1232&" alt="fabiann1232" /></p>
+
