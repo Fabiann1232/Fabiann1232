@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiann1232" alt="fabiann1232" /></a> </p>
 
-- My Beacons page [Beacons](https://beacons.ai/feimon)
 
 - 🌱 I’m currently learning **React and Javascript**
 
