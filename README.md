@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Languages</p>
+<p align="left">Languages , frameworks , libraries and tools</p>
 
 ###
 
