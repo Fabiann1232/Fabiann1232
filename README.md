@@ -52,12 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" width="42" alt="wordpress logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Fabiann1232/Fabiann1232/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
