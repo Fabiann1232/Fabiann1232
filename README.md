@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Developer Front - End<br>🔭 I’m currently working on Website - Pyraminx Algorithms<br>🌱 I’m currently learning UX designer, UX writer and product designer</p>
+<p align="left">Developer Front - End , Analista de datos, Experto en redes <br>🔭 I’m currently working on Website - Pyraminx Algorithms<br>🌱 I’m currently learning UX designer, UX writer and product designer</p>
 
 ###
 
