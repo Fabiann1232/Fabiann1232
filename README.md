@@ -33,21 +33,6 @@ Pero mi creatividad no se limita al diseño web. Con experiencia en diseño y an
 A lo largo de mi carrera, he emprendido proyectos independientes que, aunque aún no han salido a la luz, prometen ser grandes. Estos proyectos, cuidadosamente desarrollados, son el resultado de mi constante búsqueda de innovación y excelencia. Desde aplicaciones revolucionarias hasta experiencias interactivas sin precedentes, estoy comprometido con llevar estas ideas al siguiente nivel y compartir mi visión con el mundo.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
