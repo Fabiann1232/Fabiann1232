@@ -24,13 +24,8 @@
 
 
 ### Glad to see you here!  
-Como Desarrollador Front-End, Analista de Datos, Diseñador y Animador 3D, y Experto en Diseño UX, Redacción UX y Diseño de Productos, mi trayectoria se ha forjado en años de dedicación y pasión por la creación digital. Desde mis comienzos como freelancer hasta consolidar una carrera sólida, he abrazado los desafíos dinámicos que implica el mundo tecnológico.
 
-Mi enfoque principal radica en diseñar interfaces de usuario fluidas que cautiven y deleiten a los usuarios. Con un ojo para el detalle y un profundo entendimiento de los principios de experiencia de usuario, me aseguro de que cada interacción se sienta intuitiva y sin esfuerzo. Además, a través de mi experiencia como Analista de Datos, descubro patrones y tendencias ocultas que impulsan la toma de decisiones informadas.
-
-Pero mi creatividad no se limita al diseño web. Con experiencia en diseño y animación 3D, añado profundidad y dimensión a proyectos digitales, creando experiencias inmersivas que dejan una impresión duradera. En paralelo, mi pasión por la redacción UX y el diseño de productos me permite contar historias que resuenen con las audiencias y diseñar productos que marquen la diferencia.
-
-A lo largo de mi carrera, he emprendido proyectos independientes que, aunque aún no han salido a la luz, prometen ser grandes. Estos proyectos, cuidadosamente desarrollados, son el resultado de mi constante búsqueda de innovación y excelencia. Desde aplicaciones revolucionarias hasta experiencias interactivas sin precedentes, estoy comprometido con llevar estas ideas al siguiente nivel y compartir mi visión con el mundo.  
+Front - end developer , Visual creator, 3d animator , data analyst
   
 
 
